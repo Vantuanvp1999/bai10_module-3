@@ -29,6 +29,9 @@
     printWriter.println("Word: "+search);
     printWriter.println("Result: "+result);
     }
+    else {
+        printWriter.println("Not found");
+    }
 
 %>
 </body>
